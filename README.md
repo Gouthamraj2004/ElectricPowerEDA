@@ -37,24 +37,24 @@ Recommended packages:
 Run the Python scripts in the following order:
 
 1. **Exploratory Data Analysis (EDA):**
+   
 python eda_power_consumption.py
 
 
-2. **Supervised Learning (Forecasting):**
+3. **Supervised Learning (Forecasting):**
 python forecast_power_consumption.py
 
 
-3. **Unsupervised Learning (Anomaly Detection & Clustering):**
+4. **Unsupervised Learning (Anomaly Detection & Clustering):**
 python anomaly_clustering_power_consumption.py
 
 
-4. **AI Rule-Based Categorizer:**
+5. **AI Rule-Based Categorizer:**
 python ai_rule_based_categorizer.py
 
 ---
 
 ## Acknowledgments
 
-- Dataset courtesy of UCI Machine Learning Repository.
 - Thanks for following this project!
 ---
