@@ -37,7 +37,6 @@ Recommended packages:
 Run the Python scripts in the following order:
 
 1. **Exploratory Data Analysis (EDA):**
-   
 python eda_power_consumption.py
 
 
